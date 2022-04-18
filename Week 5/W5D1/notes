@@ -1,0 +1,3 @@
+#static folders are folders where you keep your css, html files
+#models are where you write your python files
+#authorisation: authorising a user and limit them to a certain stuff

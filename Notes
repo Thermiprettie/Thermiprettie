@@ -1,0 +1,10 @@
+#class is like a wrapper for...It is used in creating a model.
+#When a fxn is inside a class, it is called a method.
+#foreign key: sth not belonging to a particular model
+#onetoonefield or manytomany key: they can do what a FK will do
+
+#Whice creating django_project in week3, django created a subfolder with
+#similar name and a manage.py file inside the main django_project. The 
+#main django_project is the root folder
+#you must run it first before you run any application
+#N.B: you can only have one root application
