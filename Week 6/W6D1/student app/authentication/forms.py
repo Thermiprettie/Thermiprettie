@@ -6,4 +6,4 @@ from django.contrib.auth.forms import UserCreationForm # it is not necessary to 
 class RegisterForm(UserCreationForm):
     class Meta:
         model = User
-        fields = ['email', 'first_name', 'last_name']
+        fields = ['email', 'first_name', 'last_name', 'username']
